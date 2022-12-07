@@ -35,8 +35,11 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 \\
 <div id='app'/>
 # Streamlit Application
-$ '''bash 
-pip install streamlit '''
+```bash
+  npm run deploy
+```
+
+pip install streamlit
 Run <code>app.py</code>
 <div id='file'/>
 \\
