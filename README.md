@@ -43,7 +43,8 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 
 ![icon](https://user-images.githubusercontent.com/65721811/206149497-5f2cdde5-f4bd-4ebf-9421-ac673793cfa1.png)
 
-<img src="https://user-images.githubusercontent.com/65721811/206149497-5f2cdde5-f4bd-4ebf-9421-ac673793cfa1.png" width="100"/>
+![demo](https://user-images.githubusercontent.com/65721811/206151805-17c2b562-f84e-4db1-9611-debc524c9fb2.png)
+
 ```bash
 pip install streamlit
 Run <code>app.py</code>
