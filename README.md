@@ -47,7 +47,7 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 
 ```bash
 pip install streamlit
-Run <code>app.py</code>
+streamlit run app.py
 ```
 
 
