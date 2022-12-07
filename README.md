@@ -23,7 +23,13 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 
 <div id='Create_model'/>
 ## Create model 
-
++ Import required libraries
++ Store data, labels in the list
++ Preprocess the images
++ Preprocess the images
++ Convert labels to onehot encoding
++ Save the model
++ Load the Model
 <div id='app'/>
 ## Streamlit Application
 $ pip install streamlit
