@@ -19,7 +19,7 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 + More than 50,000 images in total
 + Large, lifelike database
 <div id='Create_model'/>
-# Create model 
+##  Create model 
 + Import required libraries
 + Store data, labels in the list
 + Preprocess the images
@@ -33,6 +33,7 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 ```bash
   npm run deploy
 ```
+![icon](https://user-images.githubusercontent.com/65721811/206149497-5f2cdde5-f4bd-4ebf-9421-ac673793cfa1.png)
 
 pip install streamlit
 Run <code>app.py</code>
